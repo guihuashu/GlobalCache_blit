@@ -1,0 +1,9 @@
+{
+	"itachs_config":	[{
+			"uuid":	"GlobalCache_000C1EE0D03F",
+			"ip":	"172.16.24.224"
+		}, {
+			"uuid":	"GlobalCache_000C1E0360DF",
+			"ip":	"172.16.24.249"
+		}]
+}
